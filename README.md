@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3 align="center">
+  Hi there 👋 I'm 𝙅𝙞𝙖𝙭𝙞𝙣 𝙎𝙝𝙤𝙪
+</h3>
 
-<!--
-**shoujiaxin/shoujiaxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.instagram.com/shoujiaxin/">
+    <img src="https://img.shields.io/badge/instagram--%23E4405F?style=social&logo=instagram" />
+  </a>
+  <a href="https://t.me/shoujiaxin">
+    <img src="https://img.shields.io/badge/telegram--%230088CC?style=social&logo=telegram" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=shoujiaxin&theme=onedark&show_icons=true" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoujiaxin&theme=onedark&layout=compact" />
+  </a>
+</p>
